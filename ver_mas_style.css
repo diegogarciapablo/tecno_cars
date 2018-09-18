@@ -1,0 +1,35 @@
+body {
+    background-image: url(img/fondo3.jpg);
+	 background-position: center;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	overflow-x: hidden;
+	text-align: center;
+
+}
+.tablita{
+background-color:rgba(255,255,255,0.3);
+	width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    text-align: justify;
+}
+.fecha {
+    float: right;
+}
+.titulo {
+    clear: right;
+    text-align: center;
+}
+.usuario {
+    float: left;
+}
+.imagen {
+    display: block;
+    margin: auto;
+}
+.botones {
+    text-align: center;
+}
